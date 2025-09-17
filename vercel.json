@@ -1,5 +1,5 @@
 {
   "builds": [
-    { "src": "api/chat.php", "use": "@vercel/php" }
+    { "src": "api/chat.js", "use": "@vercel/node" }
   ]
 }
